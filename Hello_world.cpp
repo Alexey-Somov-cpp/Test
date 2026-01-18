@@ -2,7 +2,8 @@
 
 int main ()
 {
-std::cout << "Hello, world!" << std::endl;
+// Вывод на строки на экран
+    std::cout << "Hello, world!" << std::endl;
 return 0;
 }
 
